@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQNVjUe7UO7FCuCiDmS9omJvn4YESLcCoU0r3OUDkDdP7JPFxdzP8gu67Q0uqV8i/b/rddNA21mQ8hyiRn6nlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klube\\Desktop\\Pliki\\dokumenty\\Studia materiały\\3 semestr\\Programowanie\\Projekt\\Fridge\\Fridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klube\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\klube\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\klube\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\klube\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\klube\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\klube\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
